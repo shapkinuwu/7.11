@@ -1,0 +1,15 @@
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\bin\Debug\7.1.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\bin\Debug\7.1.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\bin\Debug\7.1.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\MainWindow.g.cs
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\App.g.cs
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1_MarkupCompile.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1_MarkupCompile.lref
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\MainWindow.baml
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1.g.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\_7._1.Properties.Resources.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1.csproj.GenerateResource.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\obj\Debug\7.1.pdb
