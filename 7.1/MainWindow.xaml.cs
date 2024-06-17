@@ -44,7 +44,7 @@ namespace _7._1
                    
                 }
                 timer = new Timer();
-                timer.Interval = 60000; // Устанавливаем интервал срабатывания таймера (в миллисекундах)
+                timer.Interval = 6000; // Устанавливаем интервал срабатывания таймера (в миллисекундах)
                 timer.Elapsed += Timer_Elapsed; // Добавляем обработчик события срабатывания таймера
                 timer.Start(); // Запускаем таймер
 
@@ -61,7 +61,7 @@ namespace _7._1
             Dispatcher.Invoke(() =>
             {
                 MessageBox.Show("Рецепт оказался опасным для жизни", "Сообщение"); // Выводим сообщение при срабатывании таймера
-                Uri uri = new Uri(@"D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\7.1\jutkii-smeh-odinochnyii-mujskoi-zalivnoi-rezkii.wav");
+                Uri uri = new Uri(@"...\7.1\jutkii-smeh-odinochnyii-mujskoi-zalivnoi-rezkii.wav");
                 var player = new MediaPlayer();
                 player.Open(uri);
                 player.Play();

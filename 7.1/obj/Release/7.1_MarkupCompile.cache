@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\Users\1213-13\Documents\2-ИСП\Разработка КИС\Лукашевич\7.11-main\7.11-main\7.1\obj\Debug\
+D:\Users\1213-13\Documents\2-ИСП\Разработка КИС\Лукашевич\7.11-main\7.11-main\7.1\obj\Release\
 _7._1
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Users\1213-13\Documents\2-ИСП\Разработка КИС\Лукашевич\7.11-main\7.11-main\7.1\App.xaml
 1219584333
 
@@ -16,5 +16,5 @@ D:\Users\1213-13\Documents\2-ИСП\Разработка КИС\Лукашеви
 13-38814620
 MainWindow.xaml;
 
-False
+True
 
