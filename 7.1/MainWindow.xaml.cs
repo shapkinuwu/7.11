@@ -24,15 +24,13 @@ namespace _7._1
     {
         private Timer timer; // Объявление таймера
 
-       
-        /// <summary>
-        /// Метод  btnAdd_Click() для занесения рецепта в книгу.
-        /// </summary>
         public MainWindow()
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Метод  btnAdd_Click() для занесения рецепта в книгу.
+        /// </summary>
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(Add.Text) && !lstElem.Items.Contains(Add.Text))
@@ -62,9 +60,8 @@ namespace _7._1
             Dispatcher.Invoke(() =>
             {
                 MessageBox.Show("Рецепт оказался опасным для жизни", "Сообщение"); // Выводим сообщение при срабатывании таймера
-                Uri uri = new Uri(@".\Sound\jutkii-smeh-odinochnyii-mujskoi-zalivnoi-rezkii.wav");
                 var player = new MediaPlayer();
-                player.Open(uri);
+                player.Open(new Uri(@"..\..\Sound\jutkii-smeh-odinochnyii-mujskoi-zalivnoi-rezkii.wav", UriKind.Relative));
                 player.Play();
             });
         }
